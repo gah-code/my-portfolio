@@ -1,6 +1,6 @@
 ---
 imageSrc: '../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg'
-imageAlt: 'About Gatsby Theme Portfolio Minimal'
+imageAlt: 'About'
 ---
 
 As a web developer with over four years of experience, I have had the opportunity to work on a variety of projects and hone my skills in web development. Currently, I work at bizzNEST, a for-profit digital agency that is a branch of DigitalNEST. At bizzNEST, I focus on website development, client management, communication with design management, troubleshooting WordPress issues, configuring DNS, and project management using Scrum tools like Asana for a group of interns.
