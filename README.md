@@ -40,3 +40,5 @@ Just clone this Gatsby Starter, add the content. And that's it!
 4. By default, the Portfolio Minimal Starter has a `content` directory at the root of your Gatsby site. There, you can edit the theme settings as well as add content for your sections. To learn more about it, have a look at the [Readme of Portfolio Minimal](https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal/tree/main/gatsby-theme-portfolio-minimal#readme).
 
 ---
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5db42946-e5a8-44b0-beee-4e72d10d01cc/deploy-status)](https://app.netlify.com/sites/gah-codes/deploys)
