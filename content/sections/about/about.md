@@ -1,14 +1,14 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: '../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg'
+imageAlt: 'About Gatsby Theme Portfolio Minimal'
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+As a web developer with over four years of experience, I have had the opportunity to work on a variety of projects and hone my skills in web development. Currently, I work at bizzNEST, a for-profit digital agency that is a branch of DigitalNEST. At bizzNEST, I focus on website development, client management, communication with design management, troubleshooting WordPress issues, configuring DNS, and project management using Scrum tools like Asana for a group of interns.
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+In addition to my work as a web developer, I am also a freelance photographer. I have been offering photography and services since 2019, and I use various Adobe software such as Photoshop for resizing, formatting, retouching, and graphics. I currently work for a wedding agency where formatting images in Lightroom is a standard operation. Additionally, I enjoy using Adobe Express for creating graphics and marketing materials.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
+Aside from my work as a web developer and freelance photographer, I am also working on a side app project that is based around family photography. This is a type of service I have years of experience in, and I am excited to explore this area further.
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
+Overall, my experience as a web developer and freelance photographer has allowed me to explore my passions and gain valuable insights into the world of web development and digital media. I am excited to continue learning and growing in these fields and look forward to what the future holds. :)
 
 Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
