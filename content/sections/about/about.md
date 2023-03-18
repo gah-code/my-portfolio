@@ -1,14 +1,33 @@
 ---
-imageSrc: '../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg'
+imageSrc: '../../images/me.jpg'
 imageAlt: 'About'
 ---
 
-As a web developer with over four years of experience, I have had the opportunity to work on a variety of projects and hone my skills in web development. Currently, I work at bizzNEST, a for-profit digital agency that is a branch of DigitalNEST. At bizzNEST, I focus on website development, client management, communication with design management, troubleshooting WordPress issues, configuring DNS, and project management using Scrum tools like Asana for a group of interns.
+# 🎢
 
-In addition to my work as a web developer, I am also a freelance photographer. I have been offering photography and services since 2019, and I use various Adobe software such as Photoshop for resizing, formatting, retouching, and graphics. I currently work for a wedding agency where formatting images in Lightroom is a standard operation. Additionally, I enjoy using Adobe Express for creating graphics and marketing materials.
+The past few years have been a roller coaster. I've been immersing myself in the internet, as if it were still the <a href="https://en.wikipedia.org/wiki/Myspace" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>MySpace</u></a> days. Currently, I work full-time as a web developer for a <a href="hhttps://my-bizznest-app.netlify.app/" target="_blank" rel="nofollow noopener noreferrer" alt="Digital NEST creates sustainable and scalable technology learning centers for Latinx youth to provide the skills, network, and resources to foster economic equality." aria-label="External Link"><u>nonprofit</u></a> organization that provides design, IT, and management experience to under-resourced communities. Although my side projects have been progressing slowly, I have enjoyed applying the frameworks and marketing elements I learned in my courses. I'm excited to learn more about the following technology topics in 2023.
 
-Aside from my work as a web developer and freelance photographer, I am also working on a side app project that is based around family photography. This is a type of service I have years of experience in, and I am excited to explore this area further.
+<pre>
 
-Overall, my experience as a web developer and freelance photographer has allowed me to explore my passions and gain valuable insights into the world of web development and digital media. I am excited to continue learning and growing in these fields and look forward to what the future holds. :)
+- Gatsby
 
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+- 11ty
+
+- Supabase
+
+- React Styled Components
+
+- Serverless Functions
+
+- A11y
+
+- Notion
+
+- SEO
+
+- UX
+
+.....
+</pre>
+
+Photo by <a href="https://ghphoto.netlify.app/" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Gilbert A. Haro</u></a> 📷
