@@ -1,5 +1,6 @@
 module.exports = {
   plugins: [
+    `gatsby-transformer-inline-svg`,
     {
       resolve: 'gatsby-theme-portfolio-minimal',
       options: {

@@ -10,6 +10,8 @@ import {
   Seo,
 } from 'gatsby-theme-portfolio-minimal';
 
+import '../style.css';
+
 export default function IndexPage() {
   return (
     <>
