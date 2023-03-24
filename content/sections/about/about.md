@@ -17,7 +17,7 @@ Currently, I work full-time as a web developer for a <a href="https://my-bizznes
 
 - A11y
 
-- Notion
+- Notion AI
 
 - SEO
 
