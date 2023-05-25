@@ -11,7 +11,7 @@ Currently, I work as a marketing web developer for <a href="https://www.robertha
 
 Some of my core interest
 
- * AEM
+ * Adobe Experience Manager
 
  * Gatsby Theme Authoring
 
