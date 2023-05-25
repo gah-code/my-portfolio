@@ -5,23 +5,19 @@ imageAlt: 'About'
 
 # 2023 🎢
 
-Currently, I work full-time as a web developer for a <a href="https://my-bizznest-app.netlify.app/" target="_blank" rel="nofollow noopener noreferrer" alt="Digital NEST creates sustainable and scalable technology learning centers for Latinx youth to provide the skills, network, and resources to foster economic equality." aria-label="External Link"><u>nonprofit</u></a> organization that provides design, IT, and management experience to under-resourced communities. Although my side projects have been progressing gradually, I have enjoyed applying the frameworks and marketing elements I learned in my courses. I'm excited to learn more about the following technology topics in 2023.
+Currently, I work as a marketing web developer for <a href="https://www.roberthalf.com/" target="_blank" rel="nofollow noopener noreferrer" alt="Robert Half pioneered specialized staffing services in 1948 and today is the industry leader worldwide. Robert Half International is traded on the New York Stock Exchange (symbol: RHI) and is a member of Standard & Poor's S&P 500 index." aria-label="External Link"><u>Robert Half</u>, a global staffing firm that specializes in placing professionals in a variety of fields, including accounting, finance, and technology.</a>
 
 <pre>
 
-- Static Site Generation
+Some of my core interest
 
-- Styled Components
+ * AEM
 
-- Serverless Functions
+ * Gatsby Theme Authoring
 
-- A11y
+ * SCSS
 
-- Notion AI
-
-- SEO
-
-- UX
+ * Notion AI
 
 .....
 </pre>
