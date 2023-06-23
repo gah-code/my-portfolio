@@ -11,6 +11,8 @@ Currently, I work as a marketing web developer for <a href="https://www.robertha
 
 Some of my core interest
 
+ * <a href="https://jxnblk.com/blog/design-graph/" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>React Style Systems</u></a>
+
  * Adobe Experience Manager
 
  * Gatsby Theme Authoring
